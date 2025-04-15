@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+  }
+  header {
+    background-color: #3c743c;
+  }
+  nav {
+    display: inline-flex;
+  }
+  .logo a {
+    margin: 10px;
+    font-size: x-large;
+    cursor: pointer;
+    color: #ffffff;
+  }
+  ul {
+    margin-left: 800px;
+    margin-top: 15px;
+  }
+  li,
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: large;
+  }
+  div {
+    justify-items: center;
+  }
+  .contato {
+    color: #000000;
+    justify-self: center;
+    margin-top: 40px;
+  }
+  form {
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px #b1b1b1;
+    border-radius: 10px;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+  }
+  button {
+    background-color: #3c743c;
+    border-radius: 5px;
+    border-style: none;
+    color: #ffffff;
+    font-size: medium;
+    margin-top: 10px;
+    justify-content: center;
+    padding: 5px;
+    padding-left: 56px;
+    padding-right: 56px;
+    margin-left: 10px;
+  }
+  footer {
+    background-color: #696969;
+    justify-self: center;
+    margin: 0%;
+    padding-left: 459px;
+    padding-right: 459px;
+    margin-top: 200px;
+  }
+  .direitos {
+    color: #ffffff;
+    padding: 10px;
+    font-size: large;
+  }
+  
